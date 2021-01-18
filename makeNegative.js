@@ -1,0 +1,1 @@
+const makeNegative = number => number > 0 ? parseFloat(number * -1) : number
